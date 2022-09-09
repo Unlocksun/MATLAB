@@ -2,3 +2,4 @@
 *.wav
 *.zip
 *.pdf
+.DS_Store
